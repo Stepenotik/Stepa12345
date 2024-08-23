@@ -1,0 +1,151 @@
+body {
+    font-family: sans-serif;
+
+}
+
+header {
+background-color:rgb(86, 216, 255);
+padding:10px;
+margin:20px;
+border-radius:12px;
+border:4px solid rgb(83, 255, 246);
+}
+
+header a {
+background-color:white ;
+color: rgb(111, 42, 248);
+padding:8px;
+border-radius:10px;
+border:2px solid rgb(255, 75, 156);
+
+}
+
+h1 {
+text-align: center;
+border:3px solid rgb(199, 52, 187);
+border-radius:20px;
+color: #68ff65;
+padding:5px;
+}
+
+footer {
+background-color: #f9f967;
+
+
+}
+
+footer p {
+padding: 15px;
+margin:15px;
+background-color: #13ffa1;
+
+
+}
+
+nav {
+padding:15px;
+background-color: #85ff28;
+border: 4px solid #79a9ab;
+border-radius:5px;
+}
+
+
+nav a {
+border:3px solid #5090f6 ;  
+border-radius: 5px ;
+text-decoration:none;
+padding:5 px;     
+margin:35px;
+font-size:23px ;
+}
+
+
+.chychyndra{
+background-color: #ffcb64;
+border:4px solid lavender;
+margin: 6px;
+
+}
+
+.hto
+{
+background-color: hsl(66, 100%, 57%);
+border:6px solid gold;
+border-radius:12px;
+text-align: center;
+
+}
+
+.winter {
+border:5px solid lavenderblush ;
+background-color:rgb(255, 252, 161);
+margin:10px;
+font-family:fantasy;
+}
+
+
+.a {
+font-family:fantasy;
+background-color: aquamarine;
+
+}
+
+
+.s {
+border:7px solid rgb(156, 255, 50);
+margin:4px;
+padding:8px;
+
+}
+
+.d {
+border:4px solid  #85ff28;
+border-radius:10px;
+text-decoration:none;
+margin:20px;
+padding:7px;
+font-size:23px;
+}
+
+
+
+.x{
+font-family:cursive;
+font-weight: 600;
+font-size:20px;
+background-color: rgb(64, 188, 93);
+border:4px solid gold;
+}
+
+
+
+.j {
+background-color: #b2f380;
+color: rgb(33, 155, 255);
+font-weight: 700;
+font-family:Times ;
+font-size:45px;
+border:7px solid #f9f967;
+margin:17px;
+padding: 5px;
+}
+
+.g{
+background-color: #fff422;
+text-align: center;
+text-decoration:none;
+border:6px solid rgb(218, 56, 255);
+border-radius:17px;
+margin:25px;
+padding: 5px;
+font-size:25px;
+color: #ff0099;
+font-weight: 700;
+}
+
+.k{
+font-weight: 800;
+font-family: fantasy;
+color:#64979a92;
+
+}
